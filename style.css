@@ -1,0 +1,29 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&family=Lato&family=Pacifico&family=REM:wght@300&family=Roboto&family=Roboto+Mono&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.bg{
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background-color: rgba(128, 128, 128, 0.421);
+    width: 35vw;
+    height: 80vh;
+    border-radius: 20px;
+    padding: 15px;
+}
+.content{
+    color:rgb(0, 169, 0);
+    line-height: 25px;
+}
